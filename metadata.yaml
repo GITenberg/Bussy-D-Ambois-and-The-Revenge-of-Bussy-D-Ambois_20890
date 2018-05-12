@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '9588'
     url: http://www.gutenberg.org/2009/agents/9588
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20890#Bussy-D-Ambois-and-The-Revenge-of-Bussy-D-Ambois
 gutenberg_issued: '2007-03-24'
 gutenberg_type: Text
 identifiers:
